@@ -1,3 +1,6 @@
+![GitHub language count](https://img.shields.io/github/languages/count/betoprs31/simulador)
+![GitHub top language](https://img.shields.io/github/languages/top/betoprs31/simulador)
+
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fprofessorjosedeassis.github.io%2Fsimulador%2F)
 ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fprofessorjosedeassis.github.io%2Fsimulador%2F)
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/simulador)
